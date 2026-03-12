@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Paper Trader",
+  "description": "A crypto paper trading platform simulating trades using Binance public APIs.",
+  "requestFramePermissions": []
+}
